@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace PilourdeDakar\RankShop\libs\jojoe77777\FormAPI;
+namespace PiloudeDakar\RankShop\libs\jojoe77777\FormAPI;
 
 class CustomForm extends Form {
 

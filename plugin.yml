@@ -1,8 +1,8 @@
 name: RankShop
 author: PiloudeDakar
 version: 1.0
-api-version: 4.0.0
-main: PiloudeDakar/RankShop/Main
+api: 4.0.0
+main: PiloudeDakar\RankShop\Main
 softdepend:
   - EconomyAPI
   - PurePerms
@@ -11,3 +11,8 @@ commands:
   up:
     description: open the rank shop
     usage: up
+    permission: up.RankShop
+
+permissions:
+  up.RankShop:
+    default: op

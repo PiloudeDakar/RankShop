@@ -1,3 +1,4 @@
+---
 #title of the main form
 title: RankShop by PiloudeDakar
 
@@ -7,5 +8,6 @@ content: Choose a rank to buy
 #exampleRank:
 #  title: Example rank
 #  content: Buy the example rank
-#  name: [the perfect name of the rank, with colors] §3Example rank
+#  name: [the perfect name of the rank, with colors] §3ExampleRank
 #  price: 100000
+...
