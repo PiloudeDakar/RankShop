@@ -1,11 +1,8 @@
 <h1 align="center"> RankShop</h1>
 
-<p align="center"><img src="icon.png" width="200"></p>
+<p align="center"><img src="https://github.com/PiloudeDakar/RankShop/blob/87aaf913b6a5e3bfe589f649df3945164f72f6d8/icon.png" width="200"></p>
 
-
-<h2>General</h2>
-
-This plugin permit to create a custom rankshop. In the shop, you can add different ranks (from the plugin PurePerms) that players can buy with the money(from EconomyAPI).
+This plugin permits the creation of a custom rank shop. In the shop, you can add different ranks (from the plugin PurePerms) that players can buy with the money(from EconomyAPI).
 
 
 <h2>Commands</h2>
@@ -37,8 +34,8 @@ exampleRank:
   content: Buy the example rank
   
   #exact name of the rank, with the colours (§.)
-  name: [the perfect name of the rank, with colors] §3ExampleRank
+  name: §3ExampleRank
   
   #price of the rank
   price: 100000```
-  You can create an infinite of rank like that. All of parameters are needed.
+  You can create infinite ranks like that. All of the parameters are needed.
