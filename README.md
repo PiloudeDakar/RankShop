@@ -44,6 +44,7 @@ exampleRank:
 
 <h2>Credits</h2>
 
+```txt
   Main developper : https://github.com/PiloudeDakar/
   Virions :
     - FormAPI :
