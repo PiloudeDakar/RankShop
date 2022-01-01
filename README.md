@@ -12,7 +12,7 @@ This plugin permits the creation of a custom rank shop. In the shop, you can add
 
 <h2>Permissions</h2
 
-`up.RankShop` : use the `/up` command (default: op)
+`RankShop.up` : use the `/up` command (default: op)
 
 
 <h2>Config</h2>
