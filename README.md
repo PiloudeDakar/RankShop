@@ -40,3 +40,12 @@ exampleRank:
   price: 100000
   ```
   **You can create infinite ranks like that. All of the parameters are needed.**
+
+
+<h2>Credits</h2>
+
+  Main developper : https://github.com/PiloudeDakar/
+  Virions :
+    - FormAPI :
+        - Main developper : https://github.com/jojoe77777
+        - Updated pmmp 4 : https://github.com/PiloudeDakar/
