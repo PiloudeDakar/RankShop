@@ -37,5 +37,6 @@ exampleRank:
   name: §3ExampleRank
   
   #price of the rank
-  price: 100000```
-  You can create infinite ranks like that. All of the parameters are needed.
+  price: 100000
+  ```
+  **You can create infinite ranks like that. All of the parameters are needed.**
