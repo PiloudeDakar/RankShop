@@ -11,8 +11,8 @@ commands:
   up:
     description: open the rank shop
     usage: up
-    permission: up.RankShop
-
+    permission: RankShop.up
+    
 permissions:
-  up.RankShop:
+  RankShop.up:
     default: op
