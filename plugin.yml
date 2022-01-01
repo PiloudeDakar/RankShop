@@ -3,9 +3,7 @@ author: PiloudeDakar
 version: 1.0
 api: 4.0.0
 main: PiloudeDakar\RankShop\Main
-depend:
-  - EconomyAPI
-  - PurePerms
+depend: [EconomyAPI, PurePerms]
 
 commands:
   up:
